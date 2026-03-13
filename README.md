@@ -46,7 +46,6 @@ RegisterNumber: 25013468
 ```
 
 ## Output:
-<img width="1314" height="626" alt="image" src="https://github.com/user-attachments/assets/5b7e2c90-3f2c-4166-9416-a0c65186ad1b" />
 <img width="863" height="667" alt="image" src="https://github.com/user-attachments/assets/135c4404-7ba5-4756-9e9e-aa1d95f8c751" />
 
 
